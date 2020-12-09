@@ -1,0 +1,16 @@
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\bin\Debug\IoT_Device.exe.config
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\bin\Debug\IoT_Device.exe
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\bin\Debug\IoT_Device.pdb
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\bin\Debug\Microsoft.Azure.Devices.dll
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\bin\Debug\Microsoft.Azure.Devices.xml
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\bin\Debug\Microsoft.Azure.Devices.Shared.xml
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\obj\Debug\IoT_Device.csprojAssemblyReference.cache
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\obj\Debug\IoT_Device.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\obj\Debug\IoT_Device.csproj.CopyComplete
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\obj\Debug\IoT_Device.exe
+C:\Users\Gleb\source\repos\IoT_Device\IoT_Device\obj\Debug\IoT_Device.pdb
