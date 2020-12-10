@@ -23,11 +23,11 @@ namespace IoT_SimulationDevice
             {
                 double currentLenght = minLenght + rand.NextDouble() * 15;
 
-                var telemetryDataPoint = new
+                var lenghtDataPoint = new
                 {
                     messageId = messageId++,
                     deviceId = "yout device identity",
-                    temperature = currentLenght
+                    lenght = currentLenght
                 };
 
                 var messageString = JsonConvert.SerializeObject(telemetryDataPoint);
